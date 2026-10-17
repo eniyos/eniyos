@@ -1,4 +1,5 @@
 # Eniyan Yosuva
 **Forward Deployed Engineer**
 
-I build production software across protocol design, backend systems, Web3, and AI infrastructure.
+I work at the intersection of engineering and customer problems, turning ambiguous requirements into production-ready systems.
+My work spans systems engineering, protocols, on-chain programs, storage engines, agentic pipelines, and distributed systems.
